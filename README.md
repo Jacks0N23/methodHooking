@@ -14,4 +14,5 @@
 <li>https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/september/code-injection-on-android/</li>
 <li>http://resources.infosecinstitute.com/android-hacking-and-security-part-25-hooking-and-patching-android-apps-using-xposed-framework/#gref</li>
   <li> https://www.youtube.com/watch?v=yTgfrkLWNSg - SafetyNet</li>
+  <li> https://habr.com/ru/post/352252/ - Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений</li>
 </ul>
