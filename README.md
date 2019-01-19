@@ -15,4 +15,5 @@
 <li>http://resources.infosecinstitute.com/android-hacking-and-security-part-25-hooking-and-patching-android-apps-using-xposed-framework/#gref</li>
   <li> https://www.youtube.com/watch?v=yTgfrkLWNSg - SafetyNet</li>
   <li> https://habr.com/ru/post/352252/ - Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений</li>
+  <li>https://xakep.ru/2014/05/21/excurse-in-android-architecture/ - про init.rc в Android</li>
 </ul>
